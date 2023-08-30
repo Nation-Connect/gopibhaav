@@ -1,9 +1,13 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
 <meta content="Gopi Bhaav, Online Pooja Samagri Platform" name="keywords">
 <meta content="Gopi Bhaav, Online Pooja Samagri Platform" name="description">
 
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 <link rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
